@@ -1,3 +1,5 @@
+# orangehrm-qa-assignment
+
 # OrangeHRM Automation – QA Assignment 2026
 
 Selenium + Python automation for OrangeHRM demo site, built with the
